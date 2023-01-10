@@ -1,0 +1,6 @@
+node_modules
+.cache
+.upm
+.idea
+.replit
+vite.config.js.timestamp-1664574717106.mjs
